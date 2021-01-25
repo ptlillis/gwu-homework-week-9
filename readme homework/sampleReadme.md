@@ -1,10 +1,10 @@
 ![License Badge](https://licensebuttons.net/l/zero/1.0/80x15.png)
 
-  # Readme generator
+  # README Generator
   
   ## Description
   
-  Generates readmes for future applications with the answer of a few short questions.
+  Generates a README.md file to accompany git hub repositories for an application.
   
   ## Table of Contents
   
@@ -18,23 +18,23 @@
   
   ## Installation
 
-  After installing dependencies, open your index.js file in a new external terminal window using node methods.
+  After installing dependencies found in 'utils' folder, open the index.js file in a new external terminal window, and run node
   
   ## Usage Instructions
 
-  Follow the prompts
+  Follow prompts
 
   ## Contributions
 
-  Submitting initial code
+  Refactoring code
 
   ## Testing
 
-  Test weekly please
+  Testing version 1.1.0
   
   ## License
 
-  The  application is covered under the [${license}] license. More info: (${link})
+  The application is covered under the [${data.licensing}] license. More info: (${licensing})
 
   ## Contact
 
